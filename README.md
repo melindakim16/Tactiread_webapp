@@ -18,7 +18,7 @@ If you need access for legitimate review, deployment, or partnership purposes, p
 ## Key Features
 
 - **Expression parsing (SymPy)**  
-  Parses user input safely (expressions in `x` only; no assignments).
+  Parses user input safely.
 
 - **Plot data API**
   - `GET /data` returns sample points for browser plotting.
