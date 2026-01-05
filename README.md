@@ -8,6 +8,12 @@ A Flask-based math graphing project that parses **SymPy-compatible expressions**
 This project is built around the idea of **“Another Way of Seeing”** — translating mathematical functions into a form that can be *visually explored* and even *physically rendered* through motion control.
 
 ---
+## Security / Redacted Code Notice
+
+This repository contains a public-facing version of the project.  
+Some key codes (e.g., API keys, credentials) and certain core logic sections have been intentionally hidden or removed because this application is currently being used in collaboration with a third-party company.
+
+If you need access for legitimate review, deployment, or partnership purposes, please contact the maintainer.
 
 ## Key Features
 
